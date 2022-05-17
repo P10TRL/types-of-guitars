@@ -1,0 +1,46 @@
+body {background-color: #2D4571;}
+
+img {max-height: 100%;
+	max-width: 90%;
+	align-content: center;}
+
+.naglowek {background-color: #051838;
+		color: white;
+		padding: 10px;
+		margin: 10px;
+		border: solid 3px #4D648D;
+		align-items: center;}
+
+.tekst1 {background-color: #4D648D;
+		color: white;
+		padding: 10px;
+		margin: 10px;
+		width: 31%;
+		border: solid 3px #051838;
+		float: left;
+		height: 600px;}
+
+.tekst2 {background-color: #4D648D;
+		color: white;
+		padding: 10px;
+		margin: 10px;
+		width: 30%;
+		border: solid 3px #051838;
+		height: 600px;
+		float: left;}
+
+.tekst3 {background-color: #4D648D;
+		color: white;
+		padding: 10px;
+		margin: 10px;
+		width: 31%;
+		border: solid 3px #051838;
+		float: right;
+		height: 600px;}
+
+.autor {
+		background-color: #051838;
+		color: white;
+		margin: 10px;
+		border: solid 3px #4D648D;
+		clear: both;} 
